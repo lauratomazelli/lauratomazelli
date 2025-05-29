@@ -1,4 +1,4 @@
-# 👩‍💻 Laura Tomazelli
+# 👩‍💻 Laura Tomazelli de Castro
 
 ✨ Em transição de carreira para a área de **Tecnologia**, com foco em **Teste de Software (QA)**.  
 🎓 Formada em Estética e Cosmética pela UCEFF, atualmente aluna da **EBAC – Teste de Software**.  
