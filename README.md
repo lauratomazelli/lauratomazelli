@@ -8,10 +8,6 @@
 
 ---
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen)](mailto:lauratomazellidecastro@gmail.com)
-
----
-
 ## 🧪 O que estou estudando:
 
 - Testes manuais
