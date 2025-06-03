@@ -24,7 +24,7 @@
   Atividades práticas do curso de Teste de Software, organizadas por módulo.
 
 
-🔗 [Formação QA – Alura](https://github.com/lauratomazelli/carreira-qa-alura)  
+- 🔍 [Formação QA – Alura](https://github.com/lauratomazelli/carreira-qa-alura)  
 Atividades e projetos desenvolvidos durante a formação em Quality Assurance pela Alura.
 
 
