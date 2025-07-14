@@ -29,6 +29,11 @@
 Atividades e projetos desenvolvidos durante a formação em Quality Assurance pela Alura.
 
 
+- 🔍 [Bootcamp Santander Front-End – DIO](https://github.com/lauratomazelli/bootcamp-santander-frontend)  
+Projetos e desafios práticos do bootcamp de 2025, com foco em HTML, Git, versionamento e introdução ao front-end.
+
+
+
 ---
 
 ## 📫 Onde me encontrar
